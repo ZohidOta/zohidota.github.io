@@ -246,3 +246,6 @@ hr {
 .pp {
     margin-bottom: 0;
 }
+footer>div>p {
+    background-color: black;
+}
